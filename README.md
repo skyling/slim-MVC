@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Slim Framework 3 Skeleton Application
 
 Use this skeleton application to quickly setup and start working on a new Slim Framework 3 application. This application uses the latest Slim 3 with the PHP-View template renderer. It also uses the Monolog logger.
@@ -16,3 +17,7 @@ Replace `[my-app-name]` with the desired directory name for your new application
 * Ensure `logs/` is web writeable.
 
 That's it! Now go build something cool.
+=======
+# slim-MVC
+slim MVC
+>>>>>>> 5364d329ad1384c3ff48447096ba33be90ff6837
